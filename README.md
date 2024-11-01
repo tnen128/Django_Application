@@ -1,7 +1,7 @@
 (
 # KPI Project
 
-This project is a Django REST API application for managing KPIs (Key Performance Indicators) and Assets. It allows you to create KPIs, assign them to Assets, and evaluate KPI expressions with input values. The application is structured using Django REST Framework and adheres to the SOLID principles.
+This project is a Django REST API application for managing KPIs (Key Performance Indicators) and Assets. It allows you to create KPIs, assign them to Assets, and evaluate KPI expressions with input values. The application is structured using Django REST Framework and adheres to the SOLID principles and appropiate design patterns.
 
 
 
